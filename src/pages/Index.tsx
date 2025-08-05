@@ -1,5 +1,4 @@
 import { TravelChatbot } from "@/components/TravelChatbot";
-import { MadeWithDyad } from "@/components/made-with-dyad";
 
 const Index = () => {
   return (
@@ -10,7 +9,6 @@ const Index = () => {
         </h1>
         <TravelChatbot />
       </div>
-      <MadeWithDyad />
     </div>
   );
 };
